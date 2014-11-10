@@ -188,7 +188,6 @@
 				margin-bottom: 0;
 			}
 
-	/* Image */
 
 		.image
 		{
@@ -224,8 +223,8 @@
 			.image.featured
 			{
 				display: block;
-				width: 100%;
-				margin: 0 0 2em 0;
+				width: 600px;
+				margin: 0 auto;
 			}
 
 			.image.left
@@ -782,3 +781,20 @@
 			{
 				background-color: #e8edec;
 			}
+
+			#4u {
+				width: 100%;
+			}
+
+			.item {
+				height: 261px;
+				background-color: white;
+				width: 32%;
+				float: left;
+				margin-right: 1%;
+			}
+
+			.item img {
+				height: 202px;
+			}
+	/* Image */
