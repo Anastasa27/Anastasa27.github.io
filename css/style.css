@@ -12,6 +12,30 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+
+@media(min-width:768px) {
+  body {
+    padding: 25px 0; border: 0;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    transition: padding .3s;
+  }
+}
+
+
+@media(min-width:768px) {
+ header  {
+  padding-top: 200px; padding-bottom: 200px;
+  }
+}
+
+
+@media(min-width:768px) {
+  section {
+    padding: 150px 0;
+    }
+  }
+
 	body
 	{
 		background: #fff;
