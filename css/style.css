@@ -36,13 +36,13 @@
 		font-family: 'Lato', sans-serif;
 		font-size: 19pt;
 		line-height: 1.75em;
-		color: black;
+		color: #3c4142;
 	}
 
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 300;
-		color: black;
+		color: #3c4142;
 		line-height: 1.5em;
 	}
 
@@ -65,12 +65,12 @@
 
 			h2.alt
 			{
-				color: black;
+				color: #3c4142;
 			}
 
 			h2.alt strong
 			{
-				color: black;
+				color: #3c4142;
 			}
 
 		h3
@@ -96,7 +96,7 @@
 	strong, b
 	{
 		font-weight: 300;
-		color: black;
+		color: #3c4142;
 	}
 
 	em, i
