@@ -5,6 +5,6 @@
 #### - JavaScript
 #### - jQuery
 #### - HTML
-#### - CSS
+#### - CSS3
 
 
