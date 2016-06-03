@@ -12,6 +12,15 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+@media (max-device-width: 667px) {
+	.image.featured {
+		width:75%;
+	}
+
+	.image.avatar48 {
+		width:75%;
+	}
+}
 
 	body
 	{
