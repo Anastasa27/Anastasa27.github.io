@@ -10,7 +10,7 @@
 
 	body,input,textarea,select
 	{
-		font-size: 14pt;
+		font-size: 12pt;
 	}
 
 	h2
@@ -34,18 +34,22 @@
 
 			ul.icons
 			{
-			}	
-			
+			}
+
 				ul.icons li
 				{
 				}
-				
+
 					ul.icons a
 					{
 						width: 1.75em;
 						font-size: 1.5em;
 					}
 
+
+	.image.featured {
+		width:75%;
+	}
 /*********************************************************************************/
 /* Main                                                                          */
 /*********************************************************************************/
@@ -63,16 +67,18 @@
 		{
 			padding: 4em 0em;
 		}
-		
+
 			#main section.cover header
 			{
 				padding: 0 1em;
 			}
-			
+
+
+
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
-	
+
 	#footer
 	{
 	}
@@ -80,7 +86,7 @@
 		#footer .copyright
 		{
 		}
-			
+
 			#footer .copyright li
 			{
 				display: block;
@@ -89,7 +95,7 @@
 				padding: 0;
 				margin: 1em 0 0 0;
 			}
-			
+
 			#footer .copyright li:first-child
 			{
 				margin-top: 0;
